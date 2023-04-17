@@ -1,6 +1,6 @@
 ### Hi there 👋
-<h1 align="center">Hi 👋, I'm KHUSHHAL SHARMA</h1>
-<h3 align="center"> 💻 Sitting for 10-12 hours daily, I came to know that only  Console.log(" ")  is my best friend because it always shows me my mistakes </h3>
+<h1 align="center">Hi 👋, I'm Saurabh Singh</h1>
+<h3 align="center"> 💻 I don't always code, but when I do, it's in MERN mode! </h3>
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=khushhalsharma&label=Profile%20views&color=0e75b6&style=flat" alt="khushhalsharma" /> </p>
