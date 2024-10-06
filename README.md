@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Next.js, TypeScript**
 
-- 👨‍💻 All of my projects are available at [https://saurabh-myportfolio.vercel.app/](https://saurabh-myportfolio.vercel.app/)
-
 - 💬 Ask me about **React.js**
 
 - 📫 How to reach me **saurabhsinghup123@gmail.com**
